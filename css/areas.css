@@ -1,0 +1,66 @@
+#top
+{
+    display: grid;
+    grid-template-columns: 5fr 10fr 10fr;
+    gap: 5px;
+}
+.one
+{
+    background-color:brown;
+    height: 290px;
+}
+.two
+{
+    background-color: blue;
+    height: 150px;
+}
+.three
+{
+    background-color:blueviolet;
+    height: 150px;
+}
+
+.four
+{
+    background-color:goldenrod;
+    height: 290px;
+}
+.five
+{
+    background-color:magenta;
+    height: 200px;
+    width: 300px;
+    margin-top: -140px;
+}
+.six
+{
+    background-color:gold;
+    height: 200px;
+    width: 500px;
+    margin-top: -140px;
+    margin-left: -200px;
+}
+.seven
+{
+    background-color:rebeccapurple;
+    height: 225px;
+    width: 550px;
+    margin-top: -225px;
+    margin-left: 256px;
+}
+.eight
+{
+    background-color:deeppink;
+    height: 226px;
+    width: 251px;
+    margin-top: -225px;
+    margin-left: 811px;
+}
+.nine
+{
+    background-color:grey;
+    height: 430px;
+    width: 197px;  
+    margin-left: 1067px;
+    margin-top: -430px;
+}

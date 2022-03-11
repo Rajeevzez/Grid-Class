@@ -1,0 +1,53 @@
+#main
+{
+    display: grid;
+    grid-template-columns: 5fr 10fr 2fr 3fr 4fr 1fr;
+    gap: 5px;
+   
+}
+.one
+{
+    background-color:brown;
+    height: 200px;
+}
+.two
+{
+    background-color:#DC143C;
+    height: 200px;
+}
+.three
+{
+    background-color:#FF8C00;
+    height: 200px;
+}
+.four
+{
+    background-color:#008080;
+    height: 592px;
+}
+.five
+{
+    background-color:#BC8F8F;
+    height: 592px;
+}
+.six
+{
+    background-color:#D2691E;
+    height: 592px;
+}
+.seven
+{
+    background-color:#808000;
+    height:388px;
+    width: 248px;
+    margin-top: -387px;
+}
+.eight
+{
+    background-color:aqua;
+    height:388px;
+    width: 598px;
+    margin-left: 254px;
+    margin-top: -388px;
+}
+   

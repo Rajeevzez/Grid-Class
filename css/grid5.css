@@ -1,0 +1,31 @@
+.wrapper
+{
+    display: grid;
+    grid-template-columns: 4fr 8fr 6fr;
+    grid-template-rows: 5fr 20fr 5fr;   
+    background-color: orangered;
+    height: 500px;
+    
+
+}
+header
+{
+    grid-column-start: 1;
+    grid-column-end: 4;
+   
+}
+footer
+{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+nav
+{
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.Itemcontents
+{
+    grid-column-start: 2;
+    grid-column-end: 4;
+}

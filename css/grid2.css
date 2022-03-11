@@ -1,0 +1,62 @@
+#main
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 5px;
+   
+   
+}
+.one
+{
+    background-color: rebeccapurple;
+    height:440px;
+    border-radius: 25px;
+}
+.two
+{
+    background-color:crimson;
+    height:100px;
+    border-radius: 25px;
+}
+.three
+{
+    background-color:darkorange;
+    height:140px;
+    border-radius: 25px;
+}
+#mains
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 5px;   
+   
+}
+.ones
+{
+    background-color: hotpink;
+    height:480px;
+    border-radius: 25px;
+    margin-left: 636px;
+    margin-top: -480px;
+    width: 400px;
+}
+.twos
+{
+    background-color: rebeccapurple;
+    height:237px;
+    border-radius: 25px;    
+    margin-top: -480px;
+    margin-left:-225px;
+    width: 215px;
+    
+}
+.threes
+{
+    background-color:deeppink;
+    height:237px;
+    border-radius: 25px;   
+    margin-left:1042px;
+    margin-top: -242px;
+    width: 220px;
+    
+}
